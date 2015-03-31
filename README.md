@@ -1,4 +1,5 @@
 # sample-cookbook
 
 Re-creation of clowns/bears from Chef Fundamentals
-more features
+- more features
+- creating even more features
